@@ -46,7 +46,7 @@ Via bash script:
 
 1. Execute the following commands on your TrueNAS system:
     ```bash
-    curl -O https://raw.githubusercontent.com/gushmazuko/truenas-qemu-guest-agent/master/install.sh
+    curl -O https://raw.githubusercontent.com/wilton-nz/truenas-qemu-guest-agent/master/install.sh
     chmod +x install.sh
     ./install.sh
     ```
